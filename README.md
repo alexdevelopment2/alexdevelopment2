@@ -1,12 +1,14 @@
 <div align="center">
 
-# ₊˚୨୧ hi, i'm alex ♡
+# ₊˚୨୧ hi, i'm dreamy ♡
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF8DC7&center=true&width=600&lines=Python+Developer;Unity+Developer;Making+Cute+Things+%E2%99%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF8DC7&center=true&width=600&lines=Python+Developer;Unity+Developer;Making+Cute+Things+%E2%99%A1;Turning+Ideas+Into+Projects+%3A3" />
 
 <img src="https://media.tenor.com/6LWyqJ8E5XcAAAAi/pink-heart.gif" width="90">
 
 *"just a girl making random things on the internet :3"*
+
+♡ coding • creating • decorating everything ♡
 
 </div>
 
@@ -14,15 +16,19 @@
 
 ## 🌸 about me
 
-♡ currently building **SmoreNet**
+♡ currently creating **SmoreNet**
 
 ♡ learning **Python** + **Unity**
 
-♡ i spend too much time making things look pretty
+♡ i love making little projects just for fun
 
-♡ usually coding with music on 🎧
+♡ i spend way too much time making things look cute
 
-♡ probably tweaking my README instead of sleeping
+♡ usually coding with music playing 🎧
+
+♡ probably fixing something that wasn't broken
+
+♡ professional README decorator (unfortunately)
 
 ---
 
@@ -36,7 +42,7 @@
 
 ---
 
-## 🩷 things i use
+## 🩷 my little toolkit
 
 <div align="center">
 
@@ -50,7 +56,7 @@
 
 ---
 
-## Github Stuff
+## 💖 github corner
 
 <div align="center">
 
@@ -64,10 +70,10 @@
 
 ---
 
-## Right Now
+## 🌷 currently
 
 ```txt
 🌸 building: SmoreNet
 🎀 learning: Python + Unity
-🎧 coding soundtrack: whatever sounds good
-☕ current status: probably efucking jace
+🎧 soundtrack: anything that keeps me awake
+☕ status: probably efucking jace <3
