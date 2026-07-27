@@ -28,21 +28,19 @@
 
 ♡ probably fixing something that wasn't broken
 
-♡ professional README decorator (unfortunately)
-
 ---
 
 ## 💌 socials
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-ff8dc7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbVZ4sNdts)
+[![Discord Server <3](https://img.shields.io/badge/Discord-ff8dc7?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg](https://discord.gg/SxRZE3vedG)
 
 </div>
 
 ---
 
-## 🩷 my little toolkit
+## 🩷 Github Stuff :3
 
 <div align="center">
 
@@ -60,11 +58,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexDevelopment&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae&icon_color=ff8dc7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlexDevelopment&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae&icon_color=ff8dc7&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDevelopment&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDevelopment&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae" />
 
-<img src="https://streak-stats.demolab.com?user=AlexDevelopment&hide_border=true&background=fff0f7&ring=ff8dc7&fire=ffb7dc&currStreakLabel=ff8dc7"/>
+<br>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDevelopment&hide_border=true&background=fff0f7&ring=ff8dc7&fire=ffb7dc&currStreakLabel=ff8dc7" />
 
 </div>
 
