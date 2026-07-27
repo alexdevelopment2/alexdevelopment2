@@ -14,7 +14,7 @@
 
 ---
 
-## 🌸 about me
+## 🌸 About Me
 
 ♡ currently creating **SmoreNet**
 
@@ -30,11 +30,11 @@
 
 ---
 
-## 💌 socials
+## 💌 Socials
 
 <div align="center">
 
-[![Discord Server <3](https://img.shields.io/badge/Discord-ff8dc7?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg](https://discord.gg/SxRZE3vedG)
+[![Discord Server <3](https://img.shields.io/badge/Discord-ff8dc7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SxRZE3vedG)
 
 </div>
 
@@ -54,26 +54,17 @@
 
 ---
 
-## 💖 github corner
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlexDevelopment&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae&icon_color=ff8dc7&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDevelopment&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae" />
-
-<br>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDevelopment&hide_border=true&background=fff0f7&ring=ff8dc7&fire=ffb7dc&currStreakLabel=ff8dc7" />
-
-</div>
-
----
-
-## 🌷 currently
+## 🌷 Currently
 
 ```txt
-🌸 building: SmoreNet
-🎀 learning: Python + Unity
-🎧 soundtrack: anything that keeps me awake
-☕ status: probably efucking jace <3
+🌸 Building: SmoreNet
+🎀 Learning: Python + Unity
+☕ Status: probably efucking jace <3
+🎧 Mood: coding with music on
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDevelopment&label=♡%20visitors&color=ff8dc7&style=for-the-badge">
+thanks for stopping by ♡
+
+♡ have a lovely day ♡
+
+</div> ``
