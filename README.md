@@ -1,144 +1,73 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&duration=2500&pause=1200&color=FF8CC8&center=true&vCenter=true&width=700&lines=♡+Hello+there!;୨୧+Welcome+to+my+GitHub;✧+Python+Developer;🎀+Unity+Game+Developer;☁️+Always+learning..." />
+# ₊˚୨୧ hi, i'm alex ♡
 
-# ♡ ⋆｡˚ Welcome to my little coding corner ⋆｡˚♡
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF8DC7&center=true&width=600&lines=Python+Developer;Unity+Developer;Making+Cute+Things+%E2%99%A1" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=FFC7E6&section=header&text=%20&fontSize=0"/>
+<img src="https://media.tenor.com/6LWyqJ8E5XcAAAAi/pink-heart.gif" width="90">
 
-<img src="https://media.tenor.com/QJNoQxM4QpAAAAAi/pink-heart.gif" width="120"/>
-
-### ₊˚⊹♡ Python • Unity • Pink • Games • Cats ♡⊹˚₊
+*"just a girl making random things on the internet :3"*
 
 </div>
 
 ---
 
-# 🎀 About Me
+## 🌸 about me
 
-```yaml
-Name: Alex
+♡ currently building **SmoreNet**
 
-Location: Isle of Man
+♡ learning **Python** + **Unity**
 
-Main Language: Python 🐍
+♡ i spend too much time making things look pretty
 
-Game Engine: Unity 🎮
+♡ usually coding with music on 🎧
 
-Currently Working On:
-  - PrismNet
-
-Currently Learning:
-  - More Python
-  - Unity Development
-  - Game Design
-
-Dream:
-  - Build cute games ♡
-
-Favourite Food:
-  - Pizza 🍕
-
-Favourite Colour:
-  - Pink 🌸
-```
+♡ probably tweaking my README instead of sleeping
 
 ---
+
+## 💌 socials
 
 <div align="center">
 
-## 🌸 Things I Like 🌸
-
-🐱 Cats  
-🎀 Pink everything  
-☕ Late night coding  
-🌸 Cherry blossoms  
-🎮 Making games  
-🍕 Pizza  
-✨ Anime aesthetics  
-🧸 Plushies
+[![Discord](https://img.shields.io/badge/Discord-ff8dc7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbVZ4sNdts)
 
 </div>
 
 ---
 
-# 💖 Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-FFC4E5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbVZ4sNdts)
-
-</div>
-
----
-
-# 🌷 Tech Stack
+## 🩷 things i use
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-ff8dc7?style=for-the-badge&logo=python&logoColor=white)
-
-![Unity](https://img.shields.io/badge/Unity-ffc6e8?style=for-the-badge&logo=unity&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-ffd8ef?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-ffb4da?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-ffc4e5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-ffb7dc?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ffc4e5?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff9ed1?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-ffd8ef?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-# 🌸 GitHub Stats
+## Github Stuff
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexDevelopment&theme=radical&hide_border=true&bg_color=00000000&title_color=ff8dc7&icon_color=ff8dc7&text_color=f6c9df"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexDevelopment&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae&icon_color=ff8dc7"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDevelopment&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDevelopment&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff8dc7&text_color=ff6fae"/>
 
-<img src="https://streak-stats.demolab.com?user=AlexDevelopment&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=AlexDevelopment&theme=radical&no-bg=true&no-frame=true&margin-w=10)
+<img src="https://streak-stats.demolab.com?user=AlexDevelopment&hide_border=true&background=fff0f7&ring=ff8dc7&fire=ffb7dc&currStreakLabel=ff8dc7"/>
 
 </div>
 
 ---
 
-# 🌸 Current Goals
+## Right Now
 
-- ♡ Learn advanced Python
-- ♡ Finish PrismNet
-- ♡ Make cute Unity games
-- ♡ Contribute to open source
-- ♡ Learn shaders
-- ♡ Improve UI design
-
----
-
-# 🩷 Random Quote
-
-> "Every expert was once a beginner." ✨
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=AlexDevelopment&label=♡+Visitors&color=ff8dc7&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFC7E6&section=footer"/>
-
-### ⋆｡°✩ Thanks for stopping by! ✩°｡⋆
-
-♡ Have an amazing day ♡
-
-</div>
+```txt
+🌸 building: SmoreNet
+🎀 learning: Python + Unity
+🎧 coding soundtrack: whatever sounds good
+☕ current status: probably efucking jace
