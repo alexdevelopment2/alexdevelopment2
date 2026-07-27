@@ -2,11 +2,21 @@
 
 # ₊˚୨୧ hi, i'm dreamy ♡
 
+<img src="https://komarev.com/ghpvc/?username=AlexDevelopment&label=♡%20visitors&color=ff8dc7&style=for-the-badge">
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF8DC7&center=true&width=600&lines=Python+Developer;Unity+Developer;Making+Cute+Things+%E2%99%A1;Turning+Ideas+Into+Projects+%3A3" />
+
+<br>
 
 <img src="https://media.tenor.com/6LWyqJ8E5XcAAAAi/pink-heart.gif" width="90">
 
+<br>
+
 *"just a girl making random things on the internet :3"*
+
+<br>
 
 ♡ coding • creating • decorating everything ♡
 
@@ -16,17 +26,17 @@
 
 ## 🌸 About Me
 
-♡ currently creating **SmoreNet**
+♡ hi!! i'm dreamy :3
 
-♡ learning **Python** + **Unity**
+♡ currently working on **SmoreNet**
 
-♡ i love making little projects just for fun
+♡ learning **Python** + **Unity** (and probably breaking things along the way but yk)
 
-♡ i spend way too much time making things look cute
+♡ i like making small random projects just because i can
 
-♡ usually coding with music playing 🎧
+♡ i spend way too long making everything look pretty
 
-♡ probably fixing something that wasn't broken
+♡ usually coding with music blasting in the background 🎧
 
 ---
 
@@ -35,6 +45,10 @@
 <div align="center">
 
 [![Discord Server <3](https://img.shields.io/badge/Discord-ff8dc7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SxRZE3vedG)
+
+<br>
+
+♡ come say hi if you want :3
 
 </div>
 
@@ -59,12 +73,5 @@
 ```txt
 🌸 Building: SmoreNet
 🎀 Learning: Python + Unity
-☕ Status: probably efucking jace <3
+☕ Status: probably efucking jace <33
 🎧 Mood: coding with music on
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDevelopment&label=♡%20visitors&color=ff8dc7&style=for-the-badge">
-thanks for stopping by ♡
-
-♡ have a lovely day ♡
-
-</div> ``
