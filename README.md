@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:333333&height=200&section=header&text=Alex&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+
 ### Developer • 🇮🇲 Isle of Man
 
 *Building stuff, breaking it, and figuring out how it works.*
@@ -14,7 +18,7 @@ Right now, I'm diving deeper into low-level programming with **C++**, pushing my
 
 ---
 
-### Languages
+### Languages & Tools
 
 <div align="center">
 
