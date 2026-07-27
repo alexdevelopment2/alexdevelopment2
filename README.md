@@ -75,8 +75,10 @@
 🎀 Learning: Python + Unity
 ☕ Status: probably efucking jace <33
 🎧 Mood: coding with music on
+```
 
-🎀 Little Things
+---
+
 <div align="center">
 
 ♡ i like cute designs & pretty interfaces ♡
@@ -84,6 +86,28 @@
 ♡ tiny projects are still projects ♡
 
 ♡ making things is more fun than making them perfect ♡
+
+♡ always collecting new ideas i may or may not finish :3
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AlexDevelopment&label=♡%20visitors&color=ff8dc7&style=for-the-badge">
+
+<br><br>
+
+♡ thanks for stopping by ♡
+
+hope you have a lovely day <3
+
+<img src="https://media.tenor.com/6LWyqJ8E5XcAAAAi/pink-heart.gif" width="60">
+
+<br>
+
+୨୧ made with pink colours, late nights & random ideas ୨୧
+
+<sub>see you around ♡</sub>
+
+</div>
 
 ♡ always collecting new ideas i may or may not finish :3
 
