@@ -14,9 +14,7 @@
 
 Hey! I'm **Alex**, a developer from the **Isle of Man** 🇮🇲
 
-I like building things, learning new tech, and turning random ideas into projects.
-
-Most of my time is spent writing code, breaking things, fixing them, and wondering why it worked before I touched it.
+Most of my time is spent writing code, breaking things, fixing them.
 
 Currently I'm learning more about **C++**, improving my web development skills, and experimenting with different projects.
 
@@ -24,22 +22,21 @@ Currently I'm learning more about **C++**, improving my web development skills, 
 
 ## 🧑‍💻 What I'm Working On
 
-- ⚙️ Improving my **C++**
-- 🌐 Getting better at **web development**
-- 🎮 Learning more about **game development**
-- 🛠️ Building random projects
-- 🧠 Learning new technologies whenever I can
-- ☕ Drinking coffee and debugging things
+- Improving my **C++**
+- Getting better at **web development**
+- Learning more about **game development**
+- Building random projects
+- Learning new technologies whenever I can
 
 ---
 
 ## 🚀 My Experience
 
 
-C# ████████████████░░░░ 2+ years
-JavaScript ██████████░░░░░░░░░░ 1+ year
-HTML/CSS ████████░░░░░░░░░░░░ 5+ months
-C++ ███░░░░░░░░░░░░░░░░░ Learning
+C# 2+ years
+JavaScript 1+ year
+HTML/CSS 5+ months
+C++ Learning
 
 
 ---
@@ -65,42 +62,6 @@ C++ ███░░░░░░░░░░░░░░░░░ Learning
 🚀 Making ideas become real
 🍕 Pizza
 ☕ Coffee
-
-
----
-
-# 🔥 Current Side Quests
-
-```text
-[✓] Learn C#
-[✓] Build random projects
-[✓] Break my code
-[✓] Fix my code
-
-[ ] Become better at C++
-[ ] Make more games
-[ ] Create something cool
-[ ] Stop debugging at 2AM
-🧠 Random Facts
-🇮🇲 I'm from the Isle of Man
-💻 I enjoy making things just because I can
-🐛 Most bugs are just "features waiting to be discovered"
-🎮 I want to make more games in the future
-🍕 Pizza is an important part of the development process
-☕ Coffee has probably powered some of my projects
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark&hide_border=true"/> </div>
-🏗️ Projects
-
-Some things I've built (and some things that probably should have stayed ideas):
-
-🚧 More projects coming soon...
-💡 Random experiments
-🎮 Game projects
-🌐 Websites
-⚙️ Tools and small programs
-
-Check out my repositories to see what I'm working on!
 
 📫 Find Me
 <div align="center"> <a href="https://github.com/YOURUSERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </div>
