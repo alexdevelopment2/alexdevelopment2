@@ -1,97 +1,25 @@
-<div align="center">
+# About Me:
 
-# ₊˚୨୧ hi, i'm dreamy ♡
+I been learning C# for 2 years html for 5 months and java script for 1 year
 
-<img src="https://komarev.com/ghpvc/?username=AlexDevelopment&label=♡%20visitors&color=ff8dc7&style=for-the-badge">
+- I'm based in Isle of man
+- I'm currently working PrismNet
+- I'm currently learning html/C++
+- I love pizza :D
 
-<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF8DC7&center=true&width=600&lines=Python+Developer;Unity+Developer;Making+Cute+Things+%E2%99%A1;Turning+Ideas+Into+Projects+%3A3" />
+## Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NbVZ4sNdts) 
 
-<br>
+# Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AlexDevelopment&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<img src="https://media.tenor.com/6LWyqJ8E5XcAAAAi/pink-heart.gif" width="90">
-
-<br>
-
-*"just a girl making random things on the internet :3"*
-
-<br>
-
-♡ coding • creating • decorating everything ♡
-
-</div>
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlexDevelopment&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AlexDevelopment&icon=2&color=3)](https://visitcount.itsvg.in)
 
-## 🌸 About Me
-
-♡ hi!! i'm dreamy :3
-
-♡ currently working on **SmoreNet**
-
-♡ learning **Python** + **Unity** (and probably breaking things along the way but yk)
-
-♡ i like making small random projects just because i can
-
-♡ i spend way too long making everything look pretty
-
-♡ usually coding with music blasting in the background 🎧
-
----
-
-## 💌 Socials
-
-<div align="center">
-
-[![Discord Server <3](https://img.shields.io/badge/Discord-ff8dc7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SxRZE3vedG)
-
-<br>
-
-♡ come say hi if you want :3
-
-</div>
-
----
-
-## 🩷 Github Stuff :3
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-ff8dc7?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-ffb7dc?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ffc4e5?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ff9ed1?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-ffd8ef?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🌷 Currently
-
-```txt
-🌸 Building: SmoreNet
-🎀 Learning: Python + Unity
-☕ Status: probably efucking jace <33
-🎧 Mood: coding with music on
-```
-
----
-
-</div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDevelopment&label=♡%20visitors&color=ff8dc7&style=for-the-badge">
-
-<br><br>
-
-♡ thanks for stopping by ♡
-
-hope you have a lovely day <3
-
-<img src="https://media.tenor.com/6LWyqJ8E5XcAAAAi/pink-heart.gif" width="60"> <br>
-
-୨୧ made with pink colours, late nights & random ideas ୨୧
-
-<sub>see you around ♡</sub>
-
-</div> ```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
